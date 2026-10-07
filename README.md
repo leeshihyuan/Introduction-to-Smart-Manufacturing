@@ -24,7 +24,7 @@
 
 #台積電 #VLSI系統導論 #智慧製造導論 
 
-
+[智慧製造導論 合訂本](https://github.com/leeshihyuan/Introduction-to-Smart-Manufacturing/blob/main/%E6%99%BA%E6%85%A7%E8%A3%BD%E9%80%A0%E5%B0%8E%E8%AB%96_%E5%90%88%E8%A8%82%E6%9C%AC_C01%E7%89%88.pdf "智慧製造導論 合訂本 台灣自編大學教科書系列")
 
 https://github.com/leeshihyuan/Introduction-to-Smart-Manufacturing/blob/main/%E6%99%BA%E6%85%A7%E8%A3%BD%E9%80%A0%E5%B0%8E%E8%AB%96_%E5%90%88%E8%A8%82%E6%9C%AC_C01%E7%89%88.pdf
 
